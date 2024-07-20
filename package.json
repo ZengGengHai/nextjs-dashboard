@@ -5,7 +5,8 @@
     "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky"
+    "prepare": "husky",
+    "prettier": "npx prettier *.{js,jsx,ts,tsx,css} ./app --write"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.5",

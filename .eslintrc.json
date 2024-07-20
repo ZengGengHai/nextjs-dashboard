@@ -1,3 +1,8 @@
 {
-  "extends": ["plugin:react/recommended","next/core-web-vitals", "plugin:react-hooks/recommended", "plugin:@next/next/recommended", "prettier"]
+  "extends": ["plugin:react/recommended", "next/core-web-vitals", "plugin:react-hooks/recommended", "plugin:@next/next/recommended"],
+  "rules": {
+    "quotes": ["error", "double"],
+    "semi": ["error", "always"],
+    "react-hooks/exhaustive-deps": "error"
+  }
 }

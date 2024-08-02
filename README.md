@@ -1,8 +1,13 @@
 ### NextJs 14 版本官网学习项目
 
-访问地址(需科学上网)：https://vercel-nextjs.zenggenghai.site/
+访问地址(需科学上网)：https://nextjs-dashboard-8ndshqv0i-zenggenghais-projects.vercel.app
 
 根据 nextJs 官网教程项目部署学习 nextJs 14 版本
+
+### 体验
+
+账号：user@nextmail.com
+密码：123456
 
 ### 架构
 

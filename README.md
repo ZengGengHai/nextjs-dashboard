@@ -1,6 +1,6 @@
 ### NextJs 14 版本官网学习项目
 
-访问地址(需科学上网)：https://nextjs-dashboard-8ndshqv0i-zenggenghais-projects.vercel.app
+访问地址(需科学上网)：https://nextjs-dashboard-lemon-one-62.vercel.app
 
 根据 nextJs 官网教程项目部署学习 nextJs 14 版本
 
